@@ -12,8 +12,9 @@ In this game, you try to guess the number that the computer has picked between 0
 
 
 • After each guess, the computer will tell you if your guess is correct:
-     -If the guess is correct, the game ends and the palyer wins.
+
+     -If the guess is correct, the game ends and the player wins.
      
      -If the guess is incorrect, the computer will indicate whetever the number is higher or lower.
      
-• The player has only 10 guesses. If the correct number is not found within 10 attempts, the game ends, and the player loses.
+• The player has only 10 guesses. If the correct number is not found within 10 attempts, the game ends and the player loses.
