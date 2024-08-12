@@ -10,6 +10,7 @@ In this game, you try to guess the number that the computer has picked between 0
 • The player tries to guess the number chosen by the computer.
 
 • After each guess, the computer will tell you if your guess is correct:
+
      -If the guess is correct, the game ends, and the player wins.
      
      -If the guess is incorrect, the computer will indicate whether the number is higher or lower.
