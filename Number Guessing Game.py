@@ -6,7 +6,7 @@ count = 0
 
 while guess != number:
     guess = int(input("Guess a number between 0 and 100 (You have 10 guesses!): "))
-    count +=1
+    count += 1
 
     if count < 10:
         if guess > number:  
