@@ -3,7 +3,7 @@
 In this game, you try to guess the number that the computer has picked between 0 and 100. But be careful, you only have 10 attempts!
 
 
-#### **Rules**
+### **Rules**
 
 • The computer randomly picks a number between 0 and 100.
 
