@@ -1,4 +1,4 @@
-**Number Guessing Game**
+## **Number Guessing Game**
 
 In this game, you try to guess the number that the computer has picked between 0 and 100. But be careful, you only have 10 attempts!
 
